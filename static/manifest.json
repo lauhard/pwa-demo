@@ -1,0 +1,9 @@
+{
+    "id": "/",
+    "start_url": "/",
+    "scope": "/",
+    "name": "My Progressive Web App",
+    "short_name": "MyPWA",
+    "display": "standalone",
+    "theme_color": "red"
+}
