@@ -5,5 +5,5 @@
     "name": "My Progressive Web App",
     "short_name": "MyPWA",
     "display": "standalone",
-    "theme_color": "red"
+    "theme_color": "rgb(85, 136, 124)"
 }
