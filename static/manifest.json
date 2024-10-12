@@ -5,7 +5,7 @@
     "name": "My Progressive Web App",
     "short_name": "MyPWA",
     "display": "standalone",
-    "theme_color": "rgb(85, 136, 124)",
+    "theme_color": "rgb(67, 93, 204)",
     "icons": [
         {
             "purpose": "maskable",
@@ -18,6 +18,11 @@
             "sizes": "512x512",
             "src": "icon_x512.png",
             "type": "image/png"
+        },
+        {
+            "purpose": "any",
+            "src": "icon_x150_scale_100.png",
+            "sizes": "150x150"
         }
     ]
 }
